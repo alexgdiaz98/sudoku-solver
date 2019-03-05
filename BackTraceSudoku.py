@@ -109,5 +109,5 @@ def printGrid(grid):
         string += "+-------+-------+-------+\n"
     print(string)
     
-
-main()
+if __name__=="__main__":
+    main()
